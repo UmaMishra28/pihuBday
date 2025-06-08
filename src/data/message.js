@@ -35,7 +35,7 @@ const love = [
     'Bekhabar hoke bahoo main so jaoo meri hameshaa... ❤️',
     'Aadha tera ishq.. Aadha mera.. aise ho pura chandrama❤️',
     'Congratulationss babyy... I love youu❤️',
-    'Is jagah aa gayi chaahatein ab meri.. Cheen loonga tumhe saari duniya se hi❤️
+    'Is jagah aa gayi chaahatein ab meri.. Cheen loonga tumhe saari duniya se hi❤️'
 ]
 
 export default love;
