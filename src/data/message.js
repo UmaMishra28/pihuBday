@@ -10,7 +10,32 @@ const love = [
     'Ho sakta hai main bahar se thoda tough dikhta hu par tumse pura bacche jesa treatment hi chahta hu❤️',
     'Bas tumhare liye ye gaana aata hai❤️.. "kis baat ki der fir tu lagaye hai khudko aab roku main kese.." tumse milne ke liye❤️',
     'Tumhare sath hi mujhe har life ke moments jine hai jese tumne soche hai har soch main main tumhare sath rahunga hamesha❤️',
-    'Tumko kabhi bhi koi bhi problem ho hamesha tumhare sath rahunga❤️ tumhara hath pakad❤️ ke tumhe pyaar se hug karke❤️.. meri babuuuu❤️'
+    'Tumko kabhi bhi koi bhi problem ho hamesha tumhare sath rahunga❤️ tumhara hath pakad❤️ ke tumhe pyaar se hug karke❤️.. meri babuuuu❤️',
+    'Ye mera first message h jo aaj 25 message karne ko bola hai to start I love you pihuu babyy isse kar raha hu❤️',
+    'Tumko kuch bhi kaam karta hua bhi dekhna bahut accha experience deta h babuu❤️',
+    'Aaj mene jo bhi message likhe hai sab main babyy babuu common hai kyunki tumhe vada kiya hai aur I lovee you baby❤️',
+    'Mene aaj tak tumse such main kuch nahi chupaya bas iske alawa aur such main naa aage kabhi chupaunga.. I love youu pihuu ❤️',
+    'Tumne mere liye jitni bhi baar mehendi lagayi hai vo har baar mujhe bahut acchi aur pyaari lagi hai❤️',
+    'Tumhari god m sar rakhna aur sona... koi pillow ki zarurat nahi iske aage❤️',
+    'Is baat ko acche se samajh loo ki main kabhi tumhari kasam jhuthi nahi kha sakta.. kabhi bhi',
+    'Tum mili to accha laga... Tumse milkar bahutt acchaaaa laga😅',
+    'Main tera , tu meri... baaki kisi ka bhi vichar maa chudaye😂',
+    'Aaj kaafi pyaari lg rahi ho... ye to daily pado same hi h😂',
+    'Bich main bas ye message dalne ka man kar gya... I love you pihuu babyy❤️',
+    'Galti k liye ek message.. Sorry Sorry kahataru😂😂',
+    'Rakhu chupake main sabse vo tujhko.. kab se m tera hu kabse tu merii lailaa❤️',
+    'Darta jaha humsee , hum tosee darte... ee sab jaane mori raniyaa hayee❤️',
+    'Tune to pal bhar main chori kiya re jiya meraa jiyaa❤️',
+    'Dekhta rehta hu tumko kyunki.. naino main baseya ese nain ye tereee❤️',
+    'Tumse milne k baad main.. badle se lag rahe hain andaaz mere❤️',
+    'Saanso ne bandhi hai dor piyaa.. tere liye hi mera dhadke jiyaa❤️',
+    'Maine jaani ishq ki gaalii... bas terii aahaateee milii❤️',
+    'Hai sine main dil bhi kaha thi mujhe tumse milne se pehle khabar❤️',
+    'Main chahta hu tujhko dil-o-jaan ki tarah.. tu chaa gayi hai mujhpe aasman ki tarah❤️',
+    'Bekhabar hoke bahoo main so jaoo meri hameshaa... ❤️',
+    'Aadha tera ishq.. Aadha mera.. aise ho pura chandrama❤️',
+    'Congratulationss babyy... I love youu❤️',
+    'Is jagah aa gayi chaahatein ab meri.. Cheen loonga tumhe saari duniya se hi❤️
 ]
 
 export default love;
